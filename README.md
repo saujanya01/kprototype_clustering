@@ -44,6 +44,6 @@
 16 - nr.employed: number of employees - quarterly indicator (numeric)(drop)
 
 ## Dataset after clustering(a new column 'cluster' has been added)
-<a href="https://raw.githubusercontent.com/saujanya01/kprototype_clustering/master/with_cluster_full.csv">Click Here</a>
-<a href="https://github.com/saujanya01/kprototype_clustering/blob/master/customer_clustering.ipynb">Notebook with Clustering</a>
-<a href="https://github.com/saujanya01/kprototype_clustering/blob/master/plots.ipynb">Notebook with plots</a>
+<a href="https://raw.githubusercontent.com/saujanya01/kprototype_clustering/master/with_cluster_full.csv" target="_blank">Click Here</a><br />
+<a href="https://github.com/saujanya01/kprototype_clustering/blob/master/customer_clustering.ipynb" target="_blank">Notebook with Clustering</a><br />
+<a href="https://github.com/saujanya01/kprototype_clustering/blob/master/plots.ipynb" target="_blank">Notebook with plots</a><br />
