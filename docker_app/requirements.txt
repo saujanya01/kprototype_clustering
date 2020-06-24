@@ -1,4 +1,0 @@
-kmodes
-numpy 
-pandas 
-matplotlib
