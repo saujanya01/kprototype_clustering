@@ -28,22 +28,22 @@
 └── with_cluster_full.csv<br>
 
 ## Pandas profiling page for clusters
-* cluster0.html
-* cluster1.html
-* cluster2.html
-* cluster3.html
+* <a href ="./cluster0.html">First Cluster</a>
+* <a href ="./cluster1.html">Second Cluster</a>
+* <a href ="./cluster2.html">Third Cluster</a>
+* <a href ="./cluster3.html">Fourth Cluster</a>
 
 ## Customer clustering codes
-* customer_clustering.ipynb
-* customer_clustering.py
+* <a href ="./customer_clustering.ipynb">Jupyter Notebook</a>
+* <a href ="./customer_clustering.py">Python File</a>
 
 ## Disposition
-* Notebook -> Disposition_plots.ipynb
+* <a href ="./Disposition_plots.ipynb">Jupyter Notebook</a>
 
 ## Trends of products
-* Notebook -> Graph.ipynb
-* folder of graphs -> product_trends
+* <a href ="./Graph.ipynb">Jupyter Notebook</a>
+* <a href ="./product_trends/">Folder having graphs</a>
 
 ## Datasets
-* Before clustering -> customer_data.csv
-* After clustering -> with_cluster_full.csv(extra colum named **cluster** is added denoting the cluster of that particular row)
+* <a href ="./customer_data.csv">Before Clustering</a>
+* <a href ="./with_cluster_full.csv">After Clustering (extra colum named **cluster** is added denoting the cluster of that particular row)</a>
